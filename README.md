@@ -6,7 +6,7 @@
 
 ## 📊 Джерело Даних
 
-[Kaggle](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/data)
+[Customer Shopping Dataset - Retail Sales Data](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/data)
 
 ## 🛠️ Використані Інструменти
 
